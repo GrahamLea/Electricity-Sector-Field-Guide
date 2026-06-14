@@ -18,6 +18,7 @@ Electricity Network
 - [Front of the Meter](Front_of_the_Meter.md)
 - [Consumer Energy Resources](Consumer_Energy_Resources.md)
 - [Distributed Energy Resources](Distributed_Energy_Resources.md)
+- [Controllable Loads](Controllable_Loads.md)
 - [Virtual Power Plant](Virtual_Power_Plant.md)
 - [Meter Point Identifier](Meter_Point_Identifier.md)
 - [Meter Identifier](Meter_Identifier.md)
