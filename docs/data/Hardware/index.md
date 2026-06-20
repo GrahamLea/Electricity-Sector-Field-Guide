@@ -9,5 +9,4 @@ Hardware
 ## Index
 - [General](General/index.md)
 - [Generation](Generation/index.md)
-- [Loads](Loads/index.md)
 - [Storage](Storage/index.md)

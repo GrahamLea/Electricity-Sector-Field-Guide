@@ -3,19 +3,13 @@
 > It uses a very small subset of Markdown in a specific format.
 > See `data/README.md` for details.
 
-# Electric Vehicle
-#Stub
-
-## Synonyms
-- Electric Vehicle
-- Battery Electric Vehicle
+# Plug-In Hybrid Electric Vehicle
 
 ## Abbreviations
-- EV
-- BEV
+- PHEV
 
 
 ## Summary
 
-Motorised transport that uses stored electric charge as a source of [power].
+A [hybrid electric vehicle] that can charge its battery by plugging into an external power source.
 
